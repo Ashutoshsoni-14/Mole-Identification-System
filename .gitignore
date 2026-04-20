@@ -7,10 +7,6 @@ env/
 dataset/
 data/
 
-# Model Weights
-models/*.h5
-models/*.keras
-
 # Python Caches
 __pycache__/
 *.pyc
