@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 import tensorflow as tf
-from tensorflow.keras.preprocessing.image import ImageDataGenerator, save_img
+from tensorflow.keras.preprocessing.image import ImageDataGenerator, save_img  # type: ignore
 
 # ==========================================
 # CONFIGURATIONS
