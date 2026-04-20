@@ -148,9 +148,9 @@ if __name__ == "__main__":
     # ==========================================
     # Define relative paths. User should update these based on where the HAM10000 data resides.
     WORKSPACE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    RAW_METADATA_CSV = os.path.join(WORKSPACE_DIR, "data", "raw", "HAM10000_metadata.csv")
-    RAW_IMAGES_DIR = os.path.join(WORKSPACE_DIR, "data", "raw", "images")
-    STRUCTURED_DATASET_DIR = os.path.join(WORKSPACE_DIR, "data", "structured_dataset")
+    RAW_METADATA_CSV = os.path.join(WORKSPACE_DIR, "dataset", "raw", "HAM10000_metadata.csv")
+    RAW_IMAGES_DIR = os.path.join(WORKSPACE_DIR, "dataset", "raw", "images")
+    STRUCTURED_DATASET_DIR = os.path.join(WORKSPACE_DIR, "dataset")
     
     print(f"Working Directory Base: {WORKSPACE_DIR}")
 
