@@ -1,0 +1,23 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Dataset (Do not upload large datasets to GitHub)
+dataset/
+data/
+
+# Model Weights
+models/*.h5
+models/*.keras
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store

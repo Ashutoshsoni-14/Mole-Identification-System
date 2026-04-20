@@ -1,0 +1,16 @@
+Evaluation Classification Report - AI Skin Disease Diagnosis
+============================================================
+
+              precision    recall  f1-score   support
+
+       akiec       0.00      0.00      0.00         1
+         bcc       0.00      0.00      0.00         1
+         bkl       0.00      0.00      0.00         1
+          df       0.00      0.00      0.00         1
+         mel       0.00      0.00      0.00         1
+          nv       0.00      0.00      0.00         1
+        vasc       0.14      1.00      0.25         1
+
+    accuracy                           0.14         7
+   macro avg       0.02      0.14      0.04         7
+weighted avg       0.02      0.14      0.04         7
