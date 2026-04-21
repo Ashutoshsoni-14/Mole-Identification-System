@@ -225,7 +225,7 @@ def main():
         st.info("1. Navigate to the 'Diagnostics' tab.\n2. Upload a top-down clear dermoscopic image.\n3. Click Analyze to trigger the CNN.")
 
         st.markdown("### 👨‍💻 Developed By")
-        st.success("**Final Year Project Team**\n\nAI Architecture & UI Design Showcase")
+        st.success("**Third Year Project Team**\n\nAI Architecture & UI Design Showcase")
         
         st.divider()
         model = load_disease_model(MODEL_PATH)
