@@ -1,3 +1,5 @@
+Live demo link: https://mole-identification-system-hzhplmjpwu3dvmfwyfgsve.streamlit.app/
+
 # AI-Based Skin Disease Diagnostics System
 
 ![UI Preview](outputs/graphs/training_history.png)
